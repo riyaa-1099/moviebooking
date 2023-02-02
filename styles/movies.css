@@ -1,0 +1,13 @@
+#wallet{
+    text-align: right;
+}
+input{
+    width: 30%;
+    margin: 0 32%;
+}
+#movies{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: 12px;
+    gap: 5px;
+}

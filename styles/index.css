@@ -1,0 +1,9 @@
+#amount,#add_to_wallet,#book_movies{
+    width: 40%;
+display: flex;
+    justify-content: center;
+  margin: 0 33%;
+}
+#wallet{
+    text-align: right;
+}
